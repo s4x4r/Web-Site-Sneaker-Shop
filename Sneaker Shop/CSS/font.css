@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Open Sans Bold' ;
+    src: url('../fons/OpenSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'Open Sans Light' ;
+    src: url('../fons/OpenSans-Light.ttf');
+}
+@font-face {
+    font-family: 'Open Sans Regular' ;
+    src: url('../fons/OpenSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'Open Sans Semibold'  ;
+    src: url('../fons/OpenSans-Semibold.ttf');
+}
+.header{
+    background-image: url(../img/NikePhoto.png);
+}
